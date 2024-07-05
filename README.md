@@ -11,4 +11,3 @@ The packages used in backend are:
   <li>Body-parser</li>
 </ul>
 <br>
-More features will be included soon...
